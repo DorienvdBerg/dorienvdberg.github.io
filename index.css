@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: SeaGreen;
+  }
+  
+  h2 {
+    color: burlywood;
+    font-size: 13px;
+  }
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
